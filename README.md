@@ -32,3 +32,6 @@ chrome explorer
 Requirements:
 - Python 3 or higher
 - Installed libraries from requirements.txt
+- pip install pywin32
+- pip install psutil
+- pip install pynput
