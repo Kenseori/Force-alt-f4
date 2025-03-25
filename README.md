@@ -4,6 +4,7 @@ Force Alt+F4
 Description:
 The program terminates the active process and its child processes by pressing Alt+F4.
 Exceptions for processes can be specified in the forcef4.ini file.
+What is the difference from the others? It shuts down child processes and parent non-system processes, among other things. And it also works unlike the others!
 
 Project Files:
 1. forcef4.py - the main script of the program.
