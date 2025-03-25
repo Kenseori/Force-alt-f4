@@ -39,4 +39,3 @@ Requirements:
 
 LICENSE MIT
 -------------
-I also give my consent to any modifications. ATTENTION, I refuse to be responsible for the good work of your programs, use wisely if you are not sure that the program will survive the closure, in which case add it to the whitelist.
