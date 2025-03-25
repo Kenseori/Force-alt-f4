@@ -9,8 +9,6 @@ Project Files:
 1. forcef4.py - the main script of the program.
 2. forcef4.ini file with exceptions.
 3. requirements.txt - a list of libraries to install.
-4. icon.ico - icon for the exe file (optional).
-5. forcef4.spec - PyInstaller configuration file.
 
 How to use:
 1. Install dependencies:
