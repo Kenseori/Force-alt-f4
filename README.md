@@ -30,8 +30,13 @@ steam
 chrome explorer
 
 Requirements:
+-------------
 - Python 3 or higher
 - Installed libraries from requirements.txt
 - pip install pywin32
 - pip install psutil
 - pip install pynput
+
+LICENSE MIT
+-------------
+I also give my consent to any modifications. ATTENTION, I refuse to be responsible for the good work of your programs, use wisely if you are not sure that the program will survive the closure, in which case add it to the whitelist.
