@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python forcef4.py
 
 4. To build the exe without the console, run the command:
-pyinstaller --noconsole --onefile --icon=icon.ico forcef4.py
+pyinstaller --noconsole --onefile forcef4.py
 
 Example of forcef4.ini:
 -------------------
