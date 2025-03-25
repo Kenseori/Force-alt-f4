@@ -30,5 +30,5 @@ steam
 chrome explorer
 
 Requirements:
-- Python 3.13 or higher
+- Python 3 or higher
 - Installed libraries from requirements.txt
